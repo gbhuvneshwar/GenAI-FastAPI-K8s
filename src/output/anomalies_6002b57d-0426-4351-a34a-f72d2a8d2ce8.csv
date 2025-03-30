@@ -1,0 +1,3 @@
+Transaction ID,Company Name,Account Number,As of Date,Currency,Primary Account Info,Secondary Account Info,GL Balance,IHub Balance,Balance Difference,Fraud_Score,Explanation
+3250411,Global Finance Corp,2623476070,2025-01-23,USD,Primary Info 23859,Secondary Info 23859,321282.46,61584.13,259698.33,0.5077481865882874,Trend up detected
+1538674,Global Finance Corp,2623476070,2025-01-13,CAD,Primary Info 24082,Secondary Info 24082,498684.76,247976.03,250708.73,0.5083634853363037,Trend up detected
