@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from tqdm import tqdm
 import numpy as np
-from src.utils import (
+from utils import (
     setup_logging, load_config, load_data, initialize_model,
     get_anomaly_score, train_prediction_model, predict_balance, send_email
 )

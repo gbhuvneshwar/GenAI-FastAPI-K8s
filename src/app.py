@@ -5,8 +5,8 @@ import uvicorn
 from uuid import uuid4
 import os
 
-from src.service import BankDataService
-from src.utils import send_email
+from service import BankDataService
+from utils import send_email
 
 
 # Pydantic model for optional input data
